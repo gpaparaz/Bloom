@@ -367,13 +367,6 @@ h2 {
   .features-boxed .intro p {
     margin-bottom: 0;
   }
-
-  .features-boxed .box .learn-more{
-    color: #fff;
-    border: 2px solid #ca6f9a;
-    padding: 3px;
-    background-color: #ca6f9a;
-  }
   
   .features-boxed .features {
     padding: 50px 0;
